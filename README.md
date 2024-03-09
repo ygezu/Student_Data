@@ -8,7 +8,7 @@
 
 ## Birth Years of Students 
 
-![students_per_birthyear](https://github.com/ygezu/Student_Data/assets/159511253/9a3e3625-434b-4218-b58e-c9e936ded429)
+![students_perbirthyear](https://github.com/ygezu/Student_Data/assets/159511253/f3c15455-28ca-409a-9ef2-7d41b5ee760a)
 
 
 ## Total Cost Per Major (By Payment Plans)
